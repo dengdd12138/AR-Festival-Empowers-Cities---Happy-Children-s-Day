@@ -43,6 +43,7 @@ The interaction between reality and virtual objects
 在这个项目中，我们使用Holokit手势追踪与手势识别，根据Holokit教程进项相关设置
 
 In this project, we use Holokit gesture tracking and gesture recognition, and input relevant settings according to the Holokit tutorial
+
 ![alt text](<屏幕截图 2024-04-22 220350.png>)
 ### UI
 在UI中，我们得到了一个称为HoloKit UI Canvas的Canvas和一个事件系统Object。
@@ -130,15 +131,15 @@ After the above test is successful, hang the empty object onto the Hand Tracking
 ## 使用示例
 🚪传送门
 
-<video controls src="8e6a4b21cc1e098b09b7e3d09e12e1af.mp4" title="Title"></video>
+[动画表情]
 
 🌲树
 
-<video controls src="c97fbe920bcca639949a25dc530f8c11.mp4" title="Title"></video>
+[动画表情]
 
 🐻小熊
 
-<video controls src="3ae795bf6b855dd73cb7889a90dae2a6.mp4" title="Title"></video>
+[动画表情]
 
 
 ## 项目愿景
