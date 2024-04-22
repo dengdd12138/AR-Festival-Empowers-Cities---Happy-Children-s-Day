@@ -19,4 +19,8 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 场景理解和环境映射
 3D 对象检测
 现实与虚拟对象的交互
-持久化和重定位 AR 体验
+## 它是如何工作的
+在这个项目中，我们使用Holokit手势追踪与手势识别，根据Holokit教程进项相关设置
+### UI
+在UI中，我们得到了一个称为HoloKit UI Canvas的Canvas和一个事件系统Object。
+我们使用“Directional LIght”对象设置场景的主光。。AR Session和XR Origin是在Unity中创建AR体验的基础。
