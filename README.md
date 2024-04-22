@@ -27,7 +27,7 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 ![alt text](<屏幕截图 2024-04-22 221450.png>)
 ### 设定
 我们使用“Directional LIght”对象设置场景的主光。。AR Session和XR Origin是在Unity中创建AR体验的基础。
-![alt text](image-3.png)
+![alt text](<资源 3.png>)
 ## 交互设置
 ### 传送门
 逻辑：设置跟随TriggerDetection按顺序碰撞target1、target2、target3物体四开始运动
@@ -37,11 +37,12 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 在场景中创建target1、target2、target3等目标物体，分别放置同一平面的不同的位置。
 编写碰撞逻辑，将target1、target2、target3对应挂在相应位置
 在空物体的脚本中，编写碰撞逻辑。使用OnCollisionEnter方法检测碰撞，并按照预期的顺序检测目标物体的碰撞。
-![alt text](<屏幕截图 2024-04-22 042723.png>)
+![alt text](<资源 15.png>)
 ### 场景内的撞击交互
 小音箱涉及与上述跟随鼠标的空物体进行碰撞开始运动＋播放声音
 先建立一个负责碰撞的空物体，将音响的模型作为它的子集
-![alt text](<屏幕截图 2024-04-22 044309.png>)
+![alt text](<资源 13.png>)
+
 当空物体与音响空物体撞击就开始运动并播放声音
 整体设置：
 ![alt text](image-6.png)
@@ -56,11 +57,11 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 我们的设计是打开场景后进入UI界面，点击开始后为空场景，当画出指定手势后出现大场景，传送门与过山车开始运动。当碰撞制定物体后该物体按照原设定方式运动。
 新建一个场景集合sence，除target1、target2、target3物体都移入集合sence，并赋予脚本命令只有当空物体按顺序撞击target1、target2、target3，sence才可出现
 ![alt text](<屏幕截图 2024-04-22 050215.png>)
+
 设置脚本，在inspector将相关设定也挂入Trigger Detection
 ![alt text](<屏幕截图 2024-04-22 050832.png>)
 ### 手势交互
 以上测试成功后，将空物体挂上Hand Tracking Manager组件并进行调试
-测试：
 
 ## 使用示例
 传送门
