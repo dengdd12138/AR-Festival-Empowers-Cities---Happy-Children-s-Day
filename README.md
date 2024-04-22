@@ -47,4 +47,6 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 设置Trigger动画让物体接收到先关指令后才可开始运动
 ![alt text](<屏幕截图 2024-04-22 050530.png>)
 其中小装置与旋转木马的思路与小音箱是相同的，其中糖果树的小熊是在撞击后跟随空物体运动（增加一个Follow Mouse（Script）
-![alt text](image-4.png)
+![alt text](image-5.png)![alt text](image-4.png)
+>注：每个物体都要添加碰撞组件
+![alt text](<屏幕截图 2024-04-22 052746.png>)
