@@ -67,10 +67,12 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 以上测试成功后，将空物体挂上Hand Tracking Manager组件并进行调试
 
 ## 使用示例
-传送门
-小装置
-旋转木马
-音响
+🚪传送门
+📴小装置
+🎠旋转木马
+📢音响
+🐻小熊
+<video controls src="534fb6757d928ca70bf572fe17f6b962.mp4" title="Title"></video>
 
 ## 项目愿景
 ### 出发点
