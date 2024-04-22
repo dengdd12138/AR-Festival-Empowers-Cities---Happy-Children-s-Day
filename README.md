@@ -131,16 +131,15 @@ After the above test is successful, hang the empty object onto the Hand Tracking
 ## 使用示例
 🚪传送门
 
-<video controls src="8e6a4b21cc1e098b09b7e3d09e12e1af-1.mp4" title="
-"></video>
+![alt text](iwEeAqNnaWYDAQTRAaoF0QDwBrBe_f5cO11s9gYTaKJ-sfgAB9MAAAAAjZttxggACaJpbQoAC9IAGmt2.gif_720x720q90-1.gif)
 
 🌲树
 
-
+![alt text](iwEcAqNnaWYDAQTRAaoF0QDwBrC4FgUQTAWzRAYTaJ-2BFIAB9MAAAAAjZttxggACaJpbQoAC9IAHEHR.gif_720x720q90-1.gif)
 
 🐻小熊
 
-
+![alt text](iwEdAqNnaWYDAQTRAaoF0QDwBrBRzG96yvUIxgYTaJzXbWEAB9MAAAAAjZttxggACaJpbQoAC9IAHDy9.gif_720x720q90-1.gif)
 
 
 ## 项目愿景
