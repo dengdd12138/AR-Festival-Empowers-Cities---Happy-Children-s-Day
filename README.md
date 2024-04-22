@@ -32,11 +32,14 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 ## 传送门
 逻辑：设置跟随TriggerDetection按顺序碰撞target1、target2、target3物体四开始运动
 在Unity场景中创建一个空物体（TriggerDetection）作为跟随鼠标的对象。
-编写脚本
 创建一个C#脚本，命名为"Trigger Detection.cs"，将其附加到空物体上。
 在脚本中编写代码，使空物体跟随鼠标移动。可以使用Input.mousePosition来获取鼠标位置，并使用Camera.main.ScreenToWorldPoint将屏幕坐标转换为世界坐标。
-创建目标物体：
 在场景中创建target1、target2、target3等目标物体，分别放置同一平面的不同的位置。
 编写碰撞逻辑，将target1、target2、target3对应挂在相应位置
 在空物体的脚本中，编写碰撞逻辑。使用OnCollisionEnter方法检测碰撞，并按照预期的顺序检测目标物体的碰撞。
 ![alt text](<屏幕截图 2024-04-22 042723.png>)
+## 场景内的撞击交互
+### 小音箱
+小音箱涉及与上述跟随鼠标的空物体进行碰撞开始运动＋播放声音
+先建立一个负责碰撞的空物体，将音响的模型作为它的子集
+![alt text](<屏幕截图 2024-04-22 044309.png>)
