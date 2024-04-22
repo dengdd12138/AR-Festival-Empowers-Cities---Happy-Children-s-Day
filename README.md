@@ -129,7 +129,6 @@ After the above test is successful, hang the empty object onto the Hand Tracking
 
 ## 使用示例
 🚪传送门
-📴小装置
 🌲树
 🐻小熊
 <video controls src="534fb6757d928ca70bf572fe17f6b962.mp4" title="Title"></video>
