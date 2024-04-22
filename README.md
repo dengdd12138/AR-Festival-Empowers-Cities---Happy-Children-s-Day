@@ -14,7 +14,7 @@ AR体验：用户可以通过手机端的AR技术，与城市中的各种虚拟�
 建模与贴图：Blender、RizomUV、Substance Painter
 游戏引擎：Unity (URP 管线)
 增强现实框架：ARKit
-# 功能亮点
+## 功能亮点
 快速平面检测
 场景理解和环境映射
 3D 对象检测
