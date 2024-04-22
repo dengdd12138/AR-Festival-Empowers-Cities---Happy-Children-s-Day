@@ -131,15 +131,16 @@ After the above test is successful, hang the empty object onto the Hand Tracking
 ## 使用示例
 🚪传送门
 
-[动画表情]
+<video controls src="8e6a4b21cc1e098b09b7e3d09e12e1af-1.mp4" title="
+"></video>
 
 🌲树
 
-[动画表情]
+
 
 🐻小熊
 
-[动画表情]
+
 
 
 ## 项目愿景
